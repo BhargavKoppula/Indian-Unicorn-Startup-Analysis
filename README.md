@@ -24,7 +24,7 @@ This project analyzes a dataset of 118 Indian unicorns to understand where the m
 - Medium for public storytelling
 
 ## 📝 Blog
-📖 Read the full blog post: [India’s Unicorn Boom](https://medium.com/@bhargavkoppula/insights-from-indias-unicorn-boom-how-funding-strategy-impacts-growth-203ba43d3fba)
+📖 Read the full blog post: [India’s Unicorn Boom](https://medium.com/@bhargavkoppula/insights-from-indias-unicorn-boom-how-funding-strategy-impacts-growth-203ba43d3fba](https://medium.com/@bhargavkoppula/indias-unicorn-boom-what-118-startups-reveal-about-the-nation-s-next-economic-leap-3a8f47224240)](https://medium.com/@bhargavkoppula/indias-unicorn-boom-what-118-startups-reveal-about-the-nation-s-next-economic-leap-3a8f47224240))
 
 ## 📂 Folder Structure
 📁 India_Unicorn_Analysis/
